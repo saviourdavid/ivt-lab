@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\suli\\6\\iet\\lab4\\ivt-lab\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\suli\\6\\iet\\lab4\\ivt-lab\\src\\test\\java\\hu\\bme\\mit\\spaceship\\GT4500Test.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test\\java\\hu\\bme\\mit\\spaceship\\GT4500Test.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\suli\\6\\iet\\lab4\\ivt-lab\\src\\main\\java\\hu\\bme\\mit\\spaceship\\GT4500.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\java\\hu\\bme\\mit\\spaceship\\GT4500.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GT4500Test.java",
+              "DocumentMoniker": "C:\\suli\\6\\iet\\lab4\\ivt-lab\\src\\test\\java\\hu\\bme\\mit\\spaceship\\GT4500Test.java",
+              "RelativeDocumentMoniker": "test\\java\\hu\\bme\\mit\\spaceship\\GT4500Test.java",
+              "ToolTip": "C:\\suli\\6\\iet\\lab4\\ivt-lab\\src\\test\\java\\hu\\bme\\mit\\spaceship\\GT4500Test.java",
+              "RelativeToolTip": "test\\java\\hu\\bme\\mit\\spaceship\\GT4500Test.java",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMwSURBVDhPbVQ9SyRBEH3dPbMzsx/uLbqsiyh4GwiaaaIHImYqmBgo\u002BGNEuOQCA/\u002BCkSIHF5mZKBgJJqLBBYeK3ikefp2eq\u002BtMX1X39u56WmzRs13dr1\u002B9rmqxtLSk8/m8llLi5eUFWmuwJUmCOI4bLoQwI8/XY1WyL4VCYX13d/f72tpawpvFysqKLpfL2vM81Gq1VyB8ADvPs7XGCTTJZDK/6KDPBPz18PDwanl5GWp\u002Bfn6xWCwiiiL4vg/P881IP9zf53B1VcTj4wfjDw8FKOWjrS2m0RO5XK6tnayNJgj8BxF7JGIeUqmA3Cc2NUip6PQYe3s5HBzkcXGRIW7aSEFk0dX1G319CuXyH4RhhM7OzhEiyzpVJyYmvnm\u002B71EgrAMqAuT0YmxsfMT2do5YcrJNq1RCSl2gt/cY6XQaxJKy8j6RHB0nJyfn0vdTCIIUgQYGOIrS5CFdgqxDvDWlQHsCw/rs7CeOjo5xd3dXyWaz6wTom2AQhCYFBk6lIszNVTE9fY\u002BenmfSUxCMdaX4wEJDcwaNY9KCzqELylK1SAJglgxqWbKmQ0MxZmf/EmiV0iIoxiMTQhEoZxKa9SxZk1QAyfWlKAe\u002BnNZAR4fEyIjG6GhMWoG0dYCavkVjHTuTsHJFMMuYNgM7UA66xXxZjh2bUprm0VjjwOz/0AK\u002BZywD68kHtBqDs6YOjFlZ7a3\u002BDYZudN/M2PrrM1lzmwUDNNm5KpHvg/FGbcqDQanTKGZC5gDuFsvQ6Wgv1QByozsw9qcnUIdI7OwIbG1J7O8LajuOWcAgEMhklGHJNcwjy\u002BMqxTBsMtO4vAQWFlKYmQkwNRVgcdHD9XWTYXt7gu5uokztyM4S2PatA5pVLcb9en4Ow5QfGR5brVLRGB5O6v/eWgOQWXKPM0vfT4yGTfa2biYnNcbGtKlL1tnuse\u002Bjk05sbm7qgYEBTc\u002BP2XRzI7C66uH0VJpvvhDKhARPMD4ODA4mKJU4VQvorFEVDNjf36\u002Bpsesh2xVxLHF7q/D8DPP\u002BsfNckgiKNyudQVpH03okrGB3Rg\u002B5oJIRhUIiSqVEpNNCxLFHEUXzdt3/eyymEP8AabJpAFOGSIkAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-10T08:38:38.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GT4500.java",
+              "DocumentMoniker": "C:\\suli\\6\\iet\\lab4\\ivt-lab\\src\\main\\java\\hu\\bme\\mit\\spaceship\\GT4500.java",
+              "RelativeDocumentMoniker": "main\\java\\hu\\bme\\mit\\spaceship\\GT4500.java",
+              "ToolTip": "C:\\suli\\6\\iet\\lab4\\ivt-lab\\src\\main\\java\\hu\\bme\\mit\\spaceship\\GT4500.java",
+              "RelativeToolTip": "main\\java\\hu\\bme\\mit\\spaceship\\GT4500.java",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMwSURBVDhPbVQ9SyRBEH3dPbMzsx/uLbqsiyh4GwiaaaIHImYqmBgo\u002BGNEuOQCA/\u002BCkSIHF5mZKBgJJqLBBYeK3ikefp2eq\u002BtMX1X39u56WmzRs13dr1\u002B9rmqxtLSk8/m8llLi5eUFWmuwJUmCOI4bLoQwI8/XY1WyL4VCYX13d/f72tpawpvFysqKLpfL2vM81Gq1VyB8ADvPs7XGCTTJZDK/6KDPBPz18PDwanl5GWp\u002Bfn6xWCwiiiL4vg/P881IP9zf53B1VcTj4wfjDw8FKOWjrS2m0RO5XK6tnayNJgj8BxF7JGIeUqmA3Cc2NUip6PQYe3s5HBzkcXGRIW7aSEFk0dX1G319CuXyH4RhhM7OzhEiyzpVJyYmvnm\u002B71EgrAMqAuT0YmxsfMT2do5YcrJNq1RCSl2gt/cY6XQaxJKy8j6RHB0nJyfn0vdTCIIUgQYGOIrS5CFdgqxDvDWlQHsCw/rs7CeOjo5xd3dXyWaz6wTom2AQhCYFBk6lIszNVTE9fY\u002BenmfSUxCMdaX4wEJDcwaNY9KCzqELylK1SAJglgxqWbKmQ0MxZmf/EmiV0iIoxiMTQhEoZxKa9SxZk1QAyfWlKAe\u002BnNZAR4fEyIjG6GhMWoG0dYCavkVjHTuTsHJFMMuYNgM7UA66xXxZjh2bUprm0VjjwOz/0AK\u002BZywD68kHtBqDs6YOjFlZ7a3\u002BDYZudN/M2PrrM1lzmwUDNNm5KpHvg/FGbcqDQanTKGZC5gDuFsvQ6Wgv1QByozsw9qcnUIdI7OwIbG1J7O8LajuOWcAgEMhklGHJNcwjy\u002BMqxTBsMtO4vAQWFlKYmQkwNRVgcdHD9XWTYXt7gu5uokztyM4S2PatA5pVLcb9en4Ow5QfGR5brVLRGB5O6v/eWgOQWXKPM0vfT4yGTfa2biYnNcbGtKlL1tnuse\u002Bjk05sbm7qgYEBTc\u002BP2XRzI7C66uH0VJpvvhDKhARPMD4ODA4mKJU4VQvorFEVDNjf36\u002Bpsesh2xVxLHF7q/D8DPP\u002BsfNckgiKNyudQVpH03okrGB3Rg\u002B5oJIRhUIiSqVEpNNCxLFHEUXzdt3/eyymEP8AabJpAFOGSIkAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-10T08:37:10.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
